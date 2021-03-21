@@ -31,6 +31,7 @@ This will open the Windows Command Prompt which looks like this:
 To start the client and create a new wallet use the following:
 
 `Client.exe --testnet --wallet-file WALLET --create-wallet`
+
 ![image](https://user-images.githubusercontent.com/41549105/111911980-445c6780-8a2d-11eb-9993-b97c14d2d422.png)
 
 This will create a wallet file called `WALLET` in the same directory as the client.  
