@@ -17,9 +17,9 @@ A window will pop up and ask you to choose the path of the extraction.  You can 
 
 ![Extract2](https://github.com/Civitas-Fundamenta/CiviPort-Alpha/blob/main/extract2.png)
 
-The easiest way to access the clinet is as follows:
+The easiest way to access the client is as follows:
 
-- Navigate to the extracted files in windowd explorer.
+- Navigate to the extracted files in windows explorer.
 - in the URL bar type `CMD` and press enter
 
 ![image](https://user-images.githubusercontent.com/41549105/111911676-293d2800-8a2c-11eb-9471-d7f885b4f4c0.png)
