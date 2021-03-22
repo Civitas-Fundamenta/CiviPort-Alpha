@@ -76,7 +76,9 @@ To complete the teleport we simply energize it using the `energize` command.
 
 That's it!  You have succesfully sent Test FMTA from the Kovan to Sokol Testnet!
 
+### Linux and Mac
 
+The above applies to Linux and mac operating systems but start the client using `./client --testnet --wallet-file WALLET --create-wallet` and your prefered method for unzipping.
 
 
 
