@@ -52,6 +52,8 @@ https://gitter.im/kovan-testnet/faucet# (You require a Twitter or Github account
 
 https://faucet-sokol.herokuapp.com/
 
+https://faucet.matic.network/
+
 https://faucet.goerli.mudit.blog/ (Requires Twitter)
 
 https://faucet.rinkeby.io/ (Requires Twitter)
