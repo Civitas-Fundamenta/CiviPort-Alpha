@@ -46,11 +46,17 @@ This will start the CiviPort Client and connect to CiviSwarm and the bridge cont
 
 To take part in testing you will need to have Test FMTA as well as SPOA and kETH from the solol and kovan testnets.  To get your wallets address simply type the command `address`.  Please come to https://t.me/CivitasFundamenta and paste your address to recieve test FMTA.  
 
-To get Kovan and Sokol SPOA and ETH use the following faucets:
+To get Testnet coins for the native chains use the following faucets:
 
 https://gitter.im/kovan-testnet/faucet# (You require a Twitter or Github account for this)
 
 https://faucet-sokol.herokuapp.com/
+
+https://faucet.goerli.mudit.blog/ (Requires Twitter)
+
+https://faucet.rinkeby.io/ (Requires Twitter)
+
+https://testnet.binance.org/faucet-smart (Requires Twitter)
 
 Once you have the required coins testing can begin!
 
