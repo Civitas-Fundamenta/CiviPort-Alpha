@@ -26,11 +26,11 @@ The easiest way to access the client is as follows:
 
 This will open the Windows Command Prompt which looks like this:
 
-![image](https://user-images.githubusercontent.com/41549105/111911826-a8326080-8a2c-11eb-82d0-bacdf112f773.png)
+![image](https://user-images.githubusercontent.com/41549105/116725994-ec0b7480-a99f-11eb-87be-3293d8857e04.png)
 
 To start the client and create a new wallet use the following:
 
-`Client.exe --testnet --wallet-file WALLET --create-wallet`
+`Client.exe --wallet-file WALLET --create-wallet`
 
 ![image](https://user-images.githubusercontent.com/41549105/111911980-445c6780-8a2d-11eb-9993-b97c14d2d422.png)
 
